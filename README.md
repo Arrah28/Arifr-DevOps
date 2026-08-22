@@ -1,9 +1,9 @@
 # Cloud Networking & Web Server Deployment Project
 
-## What You Built
+## What I Built
 A live, cloud-hosted web server using Amazon EC2 running NGINX, accessible over the public internet via a custom domain name configured with custom DNS A records.
 
-## What You Learnt
+## What I Learnt
 * **Networking Foundations:** Gained hands-on experience with IP addressing, DNS record propagation, and traffic routing.
 * **Cloud Infrastructure:** Provisioned AWS EC2 instances and managed security groups to control inbound/outbound traffic.
 * **Linux System Administration:** Utilized package managers (`yum`/`apt`) to install, enable, and start web services via the command line.
